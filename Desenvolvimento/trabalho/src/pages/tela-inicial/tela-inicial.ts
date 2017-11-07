@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { IonicPage, NavController } from 'ionic-angular';
 import { HomePage } from "../home/home";
+import { SomPage } from "../som/som";
+import { ContatoPage } from "../contato/contato";
 
 /**
  * Generated class for the TelaInicialPage page.
@@ -25,6 +27,19 @@ export class TelaInicialPage {
     //push another page onto the history stack
     //causing the nav controller to animate the new page in
     this.navCtrl.push(HomePage);
+}
+
+goToOtherPageSOM() {
+  //push another page onto the history stack
+  //causing the nav controller to animate the new page in
+  this.navCtrl.push(SomPage);
+}
+
+
+goToOtherPageContato() {
+  //push another page onto the history stack
+  //causing the nav controller to animate the new page in
+  this.navCtrl.push(ContatoPage);
 }
   ionViewDidLoad() {
  

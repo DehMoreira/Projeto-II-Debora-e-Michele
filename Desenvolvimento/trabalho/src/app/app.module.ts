@@ -6,16 +6,21 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { HttpModule } from '@angular/http';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import { PassaroDetailsPage } from "../pages/passaro-details/passaro-details";
 import { TelaInicialPage } from "../pages/tela-inicial/tela-inicial";
 import { ImagemPassaroPage } from "../pages/imagem-passaro/imagem-passaro";
+import { NativeAudio } from "@ionic-native/native-audio";
+import { SomPage } from "../pages/som/som";
+import { ContatoPage } from "../pages/contato/contato";
+
 
 @NgModule({
   declarations: [
     MyApp,
     TelaInicialPage,
     HomePage,
-    ImagemPassaroPage
+    ImagemPassaroPage,
+    SomPage,
+    ContatoPage
   ],
   imports: [
     BrowserModule,
@@ -27,9 +32,12 @@ import { ImagemPassaroPage } from "../pages/imagem-passaro/imagem-passaro";
     MyApp,
     TelaInicialPage,
     HomePage,
-    ImagemPassaroPage
+    ImagemPassaroPage,
+    SomPage,
+    ContatoPage
   ],
   providers: [
+    NativeAudio,
     StatusBar,
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},

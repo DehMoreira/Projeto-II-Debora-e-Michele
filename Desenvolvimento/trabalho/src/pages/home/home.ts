@@ -1,10 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { LoadingController } from 'ionic-angular';
-import { SplashScreen } from '@ionic-native/splash-screen';
-import { StatusBar } from '@ionic-native/status-bar';
-import { InAppBrowser } from 'ionic-native';
-
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 
@@ -36,7 +32,7 @@ export class HomePage {
   
   fetchContent ():void {
     let loading = this.loadingCtrl.create({
-      content: 'Buscando pássaros...'
+      content: 'Buscando Aves...'
     });
 
     loading.present();
@@ -51,7 +47,7 @@ export class HomePage {
   
     }
     itemSelected (url: string):void {
-      let browser = new InAppBrowser(url, '_system');
+     // let browser = new InAppBrowser(url, '_system');
     }
     
     filterItems() {
@@ -64,7 +60,11 @@ export class HomePage {
       this.navCtrl.push('PassaroDetailsPage', {feed: feed});
      
     } 
+    openDetailsSabia(feed) {
+      this.navCtrl.push('SomPage', {feed: feed});
      
+    } 
+  
   }
   
   

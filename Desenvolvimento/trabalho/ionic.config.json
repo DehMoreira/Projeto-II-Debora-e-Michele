@@ -1,6 +1,8 @@
 {
   "name": "trabalho",
-  "app_id": "",
+  "app_id": "58e47346",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }

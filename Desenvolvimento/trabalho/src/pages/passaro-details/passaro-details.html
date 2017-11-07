@@ -7,7 +7,7 @@
       <ion-list>
           <ion-item>
               <ion-label>Nome Cientifico</ion-label>
-              <ion-badge item-right>{{feed.gsx$nomecientifico.$t}}</ion-badge>
+              <ion-badge item-right style="font-style:italic">{{feed.gsx$nomecientifico.$t}}</ion-badge>
             </ion-item>
 
           <ion-item>
@@ -31,8 +31,12 @@
                {{feed.gsx$caracteristicas.$t}}
             </ion-card-content>
           </ion-card>
-
+          <ion-card>
+          <ion-title>Canto Ave</ion-title>
+          <audio controls>   
+            <source src= "{{feed.gsx$somave.$t}}" type="audio/mpeg">  
+        </audio>
+    </ion-card>
 </ion-list>
-    <button ion-button full outline (click)="goToOtherPageImagem()">Ver Fotos</button>
 </ion-content>
       

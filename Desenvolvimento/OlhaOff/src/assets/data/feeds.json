@@ -1,0 +1,482 @@
+{"feed":[
+    
+        {
+        "Nome_Comum": "Andorinha-pequena-de-casa",
+        "Nome_Cientifico": "Pygochelidon cyanoleuca",
+        "Familia": "Hirundidae",
+        "Peso": "15 gramas", 
+        "Tamanho": "13 cm",  
+        "Caracteristicas": "Esta é a menor e a mais comum andorinha do Rio Grande do Sul. As andorinhas passam a maior parte do dia voando, apenas pousando em árvores, antenas, fios de eletrecidade e de telefone para descansar. Ao pousar, escolhem poleiros sem vegetação nas imediações.",
+        "Alimentacao":"Alimentam-se de insetos, como formigas e cupins alados, capturados em voo.",
+        "Ninhos":"Utilizam buracos em barrancos ou rochas tanto para dormir como para construir seus ninhos. Nas cidades, usam os telhados, frestas de casas e prédios.",
+        "imagem":"assets/img/Andorinha.jpg",
+        "canto":"assets/audio/Andorinha.mp3"
+    },
+      
+    {
+    
+         "Nome_Comum": "Anu-branco, rabo-de-palha, pelincho",
+         "Nome_Cientifico": "Guira guira",
+         "Familia": "Cuculidae",
+         "Peso": "157 gramas", 
+         "Tamanho": "40 cm",  
+         "Caracteristicas": "Costuma viver em pequenos bandos de até 18 indivíduos. Tem as penas do alto da cabeça eriçadas. A cauda é comprida e em tonalidade escura.Possui o hábito de tomar sol e banhar-se na terra. É frequentemente observado nas cidades.",
+         "Alimentacao":"Apresenta dieta carnívora, alimentando-se de percevejos, aranhas, gafanhotos, lagartixas, rãs, camundongos, e até mesmo filhotes de outras aves.",
+         "Ninhos": "Os ninhos podem ser individuais ou coletivos e os ovos são muito vistosos, com a coloração verde-marinho.",
+         "imagem":"assets/img/Anu-branco.jpg",
+         "canto":"assets/audio/Anu-branco.mp3"
+    },
+    
+    {
+        
+         "Nome_Comum": "Beija-flor-dourado",
+         "Nome_Cientifico": "Hylocharis chrysura",
+         "Familia": "Trochilidae",
+         "Peso": "5 gramas", 
+         "Tamanho": "10 cm",  
+         "Caracteristicas": "A plumagem é verde-dourado acobreado visível sob incidência solar. Apenas o beija-flor-dourado e o besourinho-de-bico-vermelho em nosso estado apresentam o bico vermelho com a ponta preta. Costuma frequentar jardins e áreas arborizadas nas cidades, sendo esta espécie uma das mais facilmente observadas.",
+         "Alimentacao":"Alimenta-se de néctar de várias flores, sendo imprescindível na polinização. Além disso, também se alimenta de pequenos artrópodes.",
+         "Ninhos": "Constrói ninho em forma de tigela onde coloca apenas dois ovos.",
+         "imagem":"assets/img/Beija-flor.jpg",
+         "canto":"assets/audio/Beija-flor.mp3"
+        },
+        
+        {
+            
+         "Nome_Comum": "Bem-te-vi",
+         "Nome_Cientifico": "Pitangus sulphuratus",
+         "Familia": "Tyrannidae",
+         "Peso": "71 á 79 gramas", 
+         "Tamanho": "24 cm",  
+         "Caracteristicas": "Muito comum nas áreas urbanas. Costuma pousar em lugares visíveis, podendo ser encontrado em vários ambientes. Vive geralmente sozinho e pode tornar-se agressivo, ameaçando outras aves quando se aproximam de seu território.",
+         "Alimentacao":"É onívoro, pois apresenta alimentação diversificada, como insetos, girinos, peixes e frutos como os do cinamomo (Melia azedarach) e de outras espécies vegetais nativas.",
+         "Ninhos": "Constrói ninhos grandes e esféricos, pondo de dois a três ovos que são incubados pela fêmea. O casal cuida e alimenta os filhotes.",
+         "imagem":"assets/img/Bem-te-vi.jpg",
+         "canto":"assets/audio/Bem-te-vi.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum": "Canário-da-terra-verdadeiro",
+         "Nome_Cientifico": "Sicalis flaveola",
+         "Familia": "Thraupidae",
+         "Peso": "16 á 18 gramas", 
+         "Tamanho": "13 cm",  
+         "Caracteristicas": "Ocorre em paisagens abertas, bordas de mata, jardim e gramados. Apresenta dimorfismo sexual. O macho possui as partes inferiores amarelo-ouro e dorso com estriado escuro. Na época reprodutiva a fronte torna-se alaranjada. A fêmea é marrom clara com riscos marrons escuros no ventre.",
+         "Alimentacao":"Alimenta-se de sementes no chão, possuindo o bico no formato ideal para esmagar e triturar sementes.",
+         "Ninhos": "Constrói ninho em forma de cesta, mas pode ocupar ninhos abandonados de joão-de-barro.",
+         "imagem":"assets/img/Canário-da-terra-verdadeiro.jpg",
+         "canto":"assets/audio/Canário.mp3"
+    
+        },
+            
+            
+        {
+            
+         "Nome_Comum": "Caracará, carancho",
+         "Nome_Cientifico": "Carcara plancus",
+         "Familia": "Falconidae",
+         "Peso": "834 gramas á  953", 
+         "Tamanho": "56 cm",  
+         "Caracteristicas": "Apresenta face nua e avermelhada, manchas grandes e claras nas asas e causa visíveis quando em voo. Habita áreas rurais, campos, florestas e também as imediações dos centros urbanos.",
+         "Alimentacao":"Onívoro, alimenta-se de grande variedade de animais, entre eles serpentes, roedores, invertebrados e animais mortos.",
+         "Ninhos": "Constrói um ninho raro com gravetos apoiados em galhos de árvores, podendo ocupar ninhos abandonados. A incubação dura cerca de 28 dias e é feita por ambos os pais.",
+         "imagem":"assets/img/Caracará.jpg",
+         "canto":"assets/audio/Caracará.mp3"
+    
+        },
+    
+    
+        {
+            
+         "Nome_Comum": "Cardeal",
+         "Nome_Cientifico": "Paroaria coronata",
+         "Familia": "Thraupidae",
+         "Peso": "44 gramas", 
+         "Tamanho": "18 cm",  
+         "Caracteristicas": "Ave conhecida pelo vistoso topete vermelho e canto melodioso. Vive em ambientes abertos com árvores e arbustos. Pode ser visualizado nas margens das rodovias. Encontrado sozinho, em casais ou pequenos bandos, frequentemente no chão. Sem dimorfismo sexual. Os jovens diferem dos adultos por apresentarem topete alaranjado, o qual fica vermelho quando chegam à fase adulta.",
+         "Alimentacao":"Alimenta-se de grãos e de pequenos artrópodes.",
+         "imagem":"assets/img/Cardeal.jpg",
+         "canto":"assets/audio/Cardeal.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Caturrita",
+         "Nome_Cientifico": "Myiopsitta monachus",
+         "Familia": "Psittacidae",
+         "Peso": "127 gramas á 140 gramas", 
+         "Tamanho": "31 cm",  
+         "Caracteristicas": "Tem penas verdes no dorso e acinzentadas no ventre, peito, garganta e testa. As asas e a cauda possuem penas azuladas. Sem dimorfismo sexual. Vivem em bandos e habitam florestas nativas e exóticas, plantações e áreas urbanas.",
+         "Alimentacao":"Alimenta-se de frutos, grãos e flores.",
+         "Ninhos": "É o único membro desta família que constrói seu ninho,os ninhos são construídos com gravetos, geralmente nos galhos mais altos dos eucaliptos. Os ninhos são conjugados mas com entrada e câmara incubatória separadas. Cada fêmea pode botar até 11 ovos por postura.",
+         "imagem":"assets/img/Caturrita.jpg",
+         "canto":"assets/audio/Caturrita.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Chopim, vira-bosta, gaudério",
+         "Nome_Cientifico": "Molthrus banariensis",
+         "Familia": "Icteridae",
+         "Peso": "48 gramas á 63 gramas", 
+         "Tamanho": "20 cm",  
+         "Caracteristicas": "O macho possui coloração preta com reflexos azulados e, a fêmea de menor tamanho, coloração parda. Vive em bandos, habitando áreas abertas, áreas com agricultura e pastagens.No Brasil, há registros de 60 espécies parasitadas pelo chopim e, de 141 espécies, considerando sua distribuição geográfica.",
+         "Alimentacao":"Sua alimentação é constituída de sementes, insetos e, ocasionalmente, frutos.",
+         "Ninhos": "Esta espécie não constrói ninhos. Deposita seus ovos em ninhos de outras espécies de aves sendo por isso considerada parasita. ",
+         "imagem":"assets/img/Chopim.jpg",
+         "canto":"assets/audio/Chopim.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Corruíra",
+         "Nome_Cientifico": "Troglodytes musculus",
+         "Familia": "Troglodytidae",
+         "Peso": "12 gramas", 
+         "Tamanho": "12 cm",  
+         "Caracteristicas": "Ave símbolo do projeto 'Olha o Passarinho!'. Ocorre em vários ambientes, como capoeiras, bordas de matas e jardins nas cidades. Irrequieta, movimenta-se com bastante agilidade entre a vegetação.",
+         "Alimentacao":"Alimenta-se de pequenos insetos, como besouros, formigas e lagartas.",
+         "Ninhos": "Constrói o ninho em ocos de árvores, casas de joão-de-barro abandonada e, em locais improváveis, como por exemplo telefones público e caixas de correio. Para isso, utiliza folhas, raízes, materiais industrializados, penas e pelos para o revestimento da câmara incubatória.Os ovos possuem coloração vermelho-claros, apresentando manchas na tonalidade vermelho-escuro. ",
+         "imagem":"assets/img/Corruíra.jpg",
+         "canto":"assets/audio/Corruíra.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Coruja-buraqueira",
+         "Nome_Cientifico": "Athene cunicularia",
+         "Familia": "Strigidae",
+         "Peso": "220 gramas", 
+         "Tamanho": "23 cm",  
+         "Caracteristicas": "Apresentam o hábito de ficar sobre uma perna, comportamento que não é observado em outras corujas. Espécie de hábitos diurnos.",
+         "Alimentacao":"Predadora de pequeno porte com dieta carnívora-insentívora, tendo preferência por roedores. Costumam regurgitar ossos, dentes e pelos, de difícil digestão, na forma de pequenas pelotas.",
+         "Ninhos": "Faz seus ninhos em cupinzeiros, buracos de tatu e buracos na areia em regiões litorâneas, costumando cavar túneis de até dois metros e forrar o fundo com capim seco. ",
+         "imagem":"assets/img/coruja-buraqueira.jpg",
+         "canto":"assets/audio/Coruja-buraqueira.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Fim-fim",
+         "Nome_Cientifico": "Euphonia chlorotica",
+         "Familia": "Fringilidae",
+         "Peso": "11 gramas", 
+         "Tamanho": "12 cm",  
+         "Caracteristicas": "Ave inconfundível pela sua coloração amarelo-vivo e garganta preta azulada. A fêmea com plumagem mais discreta, predomina uma coloração verde-olivácea. Encontrada em florestas e em paisagens abertas, como parques e jardins. Costuma movimentar-se no meio da folhagem das copas, não se aproximando do chão.",
+         "Alimentacao":"São grandes apreciadores dos frutos da erva-de-passarinho onde suas sementes muscilaginosas passam rapidamente pelo tubo digestivo do fim-fim, possibilitando sua germinação ainda nos galhos das árvores. Alimenta-se também de outros frutos nativos e artrópodes.",
+         "imagem":"assets/img/Fim-fim.jpg",
+         "canto":"assets/audio/Fim-fim.mp3"
+    
+        },
+    
+    
+        {
+            
+         "Nome_Comum":"Garça-vaqueira",
+         "Nome_Cientifico": "Bubulcus ibis",
+         "Familia": "Ardeidae",
+         "Peso": "400 gramas", 
+         "Tamanho": "49 cm",  
+         "Caracteristicas": "Originária da África. Foi registrada pela primeira vez no Brasil em 1964, na ilha de Marajó. Encontrada em ambientes abertos, áreas rurais e margens de açudes e lagos.Durante a fase reprodutiva apresenta plumagem alaranjada no alto da cabeça, peito e dorso. Nidifica em colônias.",
+         "Alimentacao":"Insentívora, pode ser vista junto ao gado, alimentando-se dos insetos espantados durante o pastejo.",
+         "Ninhos": " Os ninhos são construídos com gravetos sobre árvores ou arbustos próximos d'água. Os filhotes deixam o ninho após 30 dias.",
+         "imagem":"assets/img/Garça-vaqueira.jpg",
+         "canto":"assets/audio/Garça-vaqueira.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Gavião-carijó",
+         "Nome_Cientifico": "Rupornis magnirostris",
+         "Familia": "Accipitridae",
+         "Peso": "300 gramas", 
+         "Tamanho": "38 cm",  
+         "Caracteristicas": "Apresenta cabeça, face e garganta marrons. As listras verticais do peito contrastam com as barras horizontais cor-de-canela nas laterais e ventre. Quanto em voo, é possível notas manchas ferrugíneas nas asas. O jovem apresenta coloração diferenciada do adulto, com a fronte, garganta e sobrancelhas brancas.",
+         "Alimentacao":"Sua dieta inclui insetos, aves, serpentes, largatos e pequenos roedores. Ocorre em vários habitats, como campos e áreas urbanas, sendo visto frequentemente pousado em postes e cercas nas margens de estradas",
+         "imagem":"assets/img/Gavião-carijo.jpg",
+         "canto":"assets/audio/Gavião-carijó.mp3"
+    
+        },
+    
+    
+        {
+            
+         "Nome_Comum":"Jaçanã, cafezinho",
+         "Nome_Cientifico": "Jacana jacana",
+         "Familia": "Jacanidae",
+         "Peso": "160 gramas", 
+         "Tamanho": "25 cm",  
+         "Caracteristicas": "Habita banhados e lagos com vegetação aquática. Apresenta dedos longos, finos e unhas compridas, o que permite boa locomoção neste habitat. Característico desta espécie é a presença de um esporão vermelho, no encontro da asa, semelhante ao dos quero-queros.O jovem apresenta plumagem branca no ventre, dorso marrom-acinzentado e parte superior do pescoço e cabeça escuros.",
+         "Alimentacao":"Alimenta-se de sementes, insetos e outros invertebrados que encontra entre e sobre a vegetação aquática",
+         "Ninhos": "Postura de até quatro ovos, os quais ficam em ninho flutuante, formado por talos de plantas aquáticas. Compete ao macho todo o trabalho de cuidado da prole. ",
+         "imagem":"assets/img/Jaçanã.jpg",
+         "canto":"assets/audio/Jaçanã.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"João-de-barro, barreiro",
+         "Nome_Cientifico": "Furnarius rufus",
+         "Familia": "Furnariidae",
+         "Peso": "65 gramas", 
+         "Tamanho": "22 cm",  
+         "Caracteristicas": " Há várias lendas sobre esta espécie e a mais famosa diz que se o macho for traído ele pode trancar a fêmea no ninho até que ela morra. No entanto, para esta informação não existe comprovação científica.",
+         "Alimentacao":"Revira as folhas atrás de insetos, mas também pode alimentar-se de minhocas e restos de alimentos uma vez que é um habitante comum nas cidades.",
+         "Ninhos": "Constrói seu característico ninho de barro em forma de forno em postes de luz e de cercas, nos telhados e nos galhos de árvores. ",
+         "imagem":"assets/img/João-de-barro.jpg",
+         "canto":"assets/audio/João-de-barro.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Noivinha",
+         "Nome_Cientifico": "Xolmis irupero",
+         "Familia": "Tyrannidae",
+         "Peso": "30 gramas", 
+         "Tamanho": "18 cm",  
+         "Caracteristicas": "Encontrada sozinha ou aos pares em locais visíveis como galhos de árvores e arames de cercas. Inconfundível por sua plumagem toda branca exceto as asas e extremidade da cauda que são pretos.Sabe 'peneirar' muito bem, mantendo-se no mesmo ponto no ar, batendo as asas semelhantes aos beija-flores (em menor velocidade).",
+         "Alimentacao":"Alimenta-se essencialmente de insetos os quais apanha em voo com apurada técnica: parte do poleiro onde está pousada, apanha a presa no ar e volta para o poleiro.",
+         "Ninhos": "Constrói o ninho em ocos de árvores e ninhos abandonados de joão-de-barro.",
+         "imagem":"assets/img/Noivinha.jpg",
+         "canto":"assets/audio/Noivinha.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Pica-pau-do-campo",
+         "Nome_Cientifico": "Colaptes campestris",
+         "Familia": "Picidae",
+         "Peso": "160 gramas", 
+         "Tamanho": "32 cm",  
+         "Caracteristicas": "É o membro mais comum da família dos pica-paus no Rio Grande do Sul. Sua coloração típica permite sua fácil identificação. O macho apresenta uma faixa avermelhada a partir do canto da boca, em ambos os lados da cabeça. Nas fêmeas, essas faixas são escuras.Costuma forragear mais no chão do que nas árvores. Suas patas possuem dois dedos voltados para frente e dois dedos voltados para trás, o que auxilia para escalar o tronco das árvores. Utiliza, também, as penas rígidas da cauda como apoio para manter-se na posição vertical.",
+         "Alimentacao":"Alimenta-se de insetos, principalmente formigas e cupins. A glândula mandibular produz uma substância pegajosa que auxilia na captura dos insetos.",
+         "imagem":"assets/img/Pica-pau-do-campo.jpg",
+         "canto":"assets/audio/Pica-pau-do-campo.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Pomba-de-bando, avoante",
+         "Nome_Cientifico": "Zenaida auriculada",
+         "Familia": "Columbidae",
+         "Peso": "150 gramas", 
+         "Tamanho": "24 cm",  
+         "Caracteristicas": "Ocorre em vários ambientes, sendo bastante comum nas cidades, em plantações e beira de estradas.Facilmente identificados por apresentar alguns pontos pretos nas asas e duas listras negras e pequenas atrás dos olhos.",
+         "Alimentacao":"Sua alimentaçõa é composta de frutos e sementes coletados do solo, podendo ingerir também restos de alimentos e farelos.",
+         "Ninhos": "Ovos e filhotes podem ser encontrados frequentemente caídos no chão devido ao ninho frágil. contruído com poucos gravetos tramados sobre árvores e em construções humanas.",
+         "imagem":"assets/img/Pomba-de-bando.jpg",
+         "canto":"assets/audio/Pomba-de-bando.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Quero-Quero",
+         "Nome_Cientifico": "Vanellus chilensis",
+         "Familia": "Charadriidae",
+         "Peso": "270 gramas", 
+         "Tamanho": "37 cm",  
+         "Caracteristicas": "Habita diversos ambientes como banhados, campos, pastagens e áreas urbanas. Possui um esporão ósseo pontudo, de cor laranja, com um centímetro de comprimento no encontro das asas.O quero-quero é considerado a ave símbolo do Rio Grande do Sul, chamada também de 'sentinela dos pampas'. ",
+         "Alimentacao":"Alimenta-se de invertebrados aquáticos, artrópodes, moluscos terrestres e pequenos vertebrados.",
+         "Ninhos": "A postura é de três a quatro ovos. Nidifica em uma cavidade no solo e os filhotes, perfeitamente camuflados no ambiente, deixam o ninho logo após o nascimento.",
+         "imagem":"assets/img/Quero-quero.jpg",
+         "canto":"assets/audio/Quero-quero.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Quiri-quiri",
+         "Nome_Cientifico": "Falco sparverius",
+         "Familia": "Falconidae",
+         "Peso": "107 gramas á 120", 
+         "Tamanho": "26 cm",  
+         "Caracteristicas": "Possui um padrão facial bastante diferenciado, com duas faixas verticais laterais, pretas, próximo aos olhos. Com acentuado dimorfismo sexual onde o macho apresenta cauda ferrugínea com a extremidade branca e ventre com manchas pretas. A fêmea difere deste por apresentar a região ventral estriada de marrom e cauda ferrugínea com finas listras negras.Ocupa áreas urbanizadas e campestres, frequentemente pousado em postes e fios de luz. ",
+         "Alimentacao":"Alimenta-se de grande variedade de animais, como cobras, lagartos, roedores, morcegos e insetos.",
+         "Ninhos": "Nidifica em ocos de árvores, cavidades feitas por pica-paus, em barrancos cupinzeiros e ninhos abandonados de caturritas.",
+         "imagem":"assets/img/quiriquiri.jpg",
+         "canto":"assets/audio/quiriquiri.mp3"
+    
+        },
+    
+    
+        {
+            
+         "Nome_Comum":"Sabiá-da-praia, sabiá-do-campo",
+         "Nome_Cientifico": "Mimus saturninus",
+         "Familia": "Mimidae",
+         "Peso": "77 gramas á 83 gramas", 
+         "Tamanho": "26 cm",  
+         "Caracteristicas":"Facilmente identificado pela linha superciliar branca destacada pela faixa preta na altura dos olhos. Apresenta uma cauda comprida com as penas externas de cor branca. Vive em ambientes com vegetação tipo parque. Comum nas cidades. O jovem possui o ventre branco com pequenas pintas na cor marrom. ",
+         "Alimentacao":"São onívoros, alimentam-se principalmente de insetos e frutos. ",
+         "Ninhos": "O ninho, em forma de tigela rasa, é construído com gravetos secos, capim e forrado com material macio, depositado sobre árvores ou arbustos. A postura é de três a quatro ovos.",
+         "imagem":"assets/img/Sabiá-do-campo.jpg",
+         "canto":"assets/audio/Sabiá-do-campo.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Sabiá-laranjeira",
+         "Nome_Cientifico": "Turdus rufiventris",
+         "Familia": "Turdidae",
+         "Peso": "74 gramas á 82 gramas", 
+         "Tamanho": "25 cm",  
+         "Caracteristicas":"Inconfundível pela intensa coloração alaranjada do ventre. Possui um canto melodioso, que lembra uma flauta, emitido de forma diferente no amanhecer e entardecer. É comum no interior e em bordas de florestas, quintais e áreas urbanas arborizadas. ",
+         "Alimentacao":"Alimenta-se basicamente de insetos, larvas, minhocas e frutos maduros, exóticos e nativos. ",
+         "Ninhos": "O ninho, em forma de tigela funda, é construído com musgos, raízes e barro. Os ovos são verde-azulados com manchas marrons.",
+         "imagem":"assets/img/Sabia-laranjeira.jpg",
+         "canto":"assets/audio/Sabia-laranjeira.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Sabiá-poca",
+         "Nome_Cientifico": "Turdus amaurochalinus",
+         "Familia": "Turdidae",
+         "Peso": "55 gramas á 73 gramas", 
+         "Tamanho": "23 cm",  
+         "Caracteristicas":"Possuem o característico hábito de balançar a cauda rapidamente na vertical, estando pousado ou no chão. O dorso é marrom-acinzentado e o ventre apresenta tons mais claros. O bico é escuro ou em diferentes tons de amarelo. Durante o período reprodutivo, o amarelo do bico torna-se mais intenso.Como outros sabiás, gostam de ciscar com o bico as folhas secas e escavar o chão. A plumagem dos juvenis difere do adulto por apresentar dorso, peito e ventre com manchas marrons.",
+         "Alimentacao":"Alimentam-se de invertebrados e pequenos frutos como o do ligustro ( Ligustrum lucidum), uma espécie exótica invasora.",
+         "imagem":"assets/img/Sabia-poca.jpg",
+         "canto":"assets/audio/Sabia-poca.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Saíra-preciosa",
+         "Nome_Cientifico": "Tangara preciosa",
+         "Familia": "Thraupidae",
+         "Peso": "22 gramas á 24 gramas", 
+         "Tamanho": "15 cm",  
+         "Caracteristicas":"Vive no interior e bordas de florestas, em paisagens abertas, parques e jardins. Nas cidades, pode ser atraída por comedouros artficiais. O macho apresenta coloração vistosa, em tons de castanho azul. A fêmea apresenta coloração mais discreta, possuindo a cabeça marrom-claro e o restante do corpo verde.",
+         "Alimentacao":"Alimenta-se principalmente de frutos, podendo consumir também pequenos artrópodes. ",
+         "imagem":"assets/img/Saira-preciosa.jpg",
+         "canto":"assets/audio/Saira-preciosa.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Sanhaçu-cinzento",
+         "Nome_Cientifico": "Tangara sayaca",
+         "Familia": "Thraupidae",
+         "Peso": "30 gramas á 34 gramas", 
+         "Tamanho": "18 cm",  
+         "Caracteristicas":"Ocorre em florestas, paisagens abertas com árvores esparsas, em quintais e jardins nos centros urbanos.",
+         "Alimentacao":"Alimenta-se principalmente de frutos, como por exemplo os de aroeira-pimenteira (Schinus terebinthifolius). Pode consumir também folhas, brotos e insetos capturados durante o voo. ",
+         "Ninhos":"O ninho é feito de musgos, pequenos gravetos e raízes, escondido entre a vegetação. A fêmea põe de dois a três ovos e os filhotes são alimentados pelo casal. Os filhotes deixam o ninho após 20 dias.",
+         "imagem":"assets/img/sanhaçu-cinzento.jpg",
+         "canto":"assets/audio/sanhaçu-cinzento.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Sanhaçu-papa-laranja",
+         "Nome_Cientifico": "Pipraeidea banariensis",
+         "Familia": "Thraupidae",
+         "Peso": " 40 gramas á 46 gramas", 
+         "Tamanho": "18 cm",  
+         "Caracteristicas":"Espécie com dimorfismo sexual. O macho, vivamente colorido, possui ventre amarelo, peito alaranjado, cabeça e asas azuis com dorso negro. A fêmea é toda parda-esverdeada. Muito comum nas cidades. Habita florestas, parques e jardins. ",
+         "Alimentacao":"Alimenta-se por exemplo, de frutos silvestres, flores e folhas de mamão. ",
+         "Ninhos":"Faz ninho tipo tigela. A postura é de dois a quatro ovos.",
+         "imagem":"assets/img/Sanhaçu-papa-laranja.jpg",
+         "canto":"assets/audio/Sanhaçu-papa-laranja.mp3"
+    
+        },
+    
+    
+        {
+            
+         "Nome_Comum":"Surucuá-variado",
+         "Nome_Cientifico": "Trogon Surrucura",
+         "Familia": "Trogonidae",
+         "Peso": "78 gramas", 
+         "Tamanho": "28 cm",  
+         "Caracteristicas":" O macho apresenta anel de cor vermelha ao redor dos olhos, sendo seu ventre nesta mesma tonalidade. O dorso é verde, com peito e cabeça azul-metálico. A fêmea apresenta o ventre na cor vermelha fraco e o dorso e cabeça cinza-escuro.",
+         "Alimentacao":"Alimenta-se de insetos, lagartas e frutas, como o palmito-juçara, sendo um importante dispersos de sementes. ",
+         "Ninhos":"O ninho é geralmente construído no alto em uma árvore oca, muitas vezes em cupinzeiros arborícolas.",
+         "imagem":"assets/img/Surucuá-variado.jpg",
+         "canto":"assets/audio/Surucuá-variado.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Tesourinha",
+         "Nome_Cientifico": "Tyrannus savana",
+         "Familia": "Tyrannidae",
+         "Peso": " 29 gramas á 32 gramas", 
+         "Tamanho": "macho 38 cm fêmea 27 cm",  
+         "Caracteristicas":"Espécie migratória sendo observada no Rio Grande do Sul a partir de setembro, quando retorna para a temporada reprodutiva. Deixam o estado novamente em março. Vive em áreas abertas e costumam pousar em lugares visíveis. Destes locais, partem para a captura de insetos em voo. O macho apresenta a cauda maior que a fêmea. Nos jovens a cauda é curta. ",
+         "Alimentacao":"Incluem frutos na dieta. ",
+         "Ninhos":"O ninho é em forma de tigela, feito com folhas, ramos secos e gravetos e forrado com plumas.",
+         "imagem":"assets/img/Tessourinha.jpg",
+         "canto":"assets/audio/Tessourinha.mp3"
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Tico-tico",
+         "Nome_Cientifico": "Zonotrichia capensis",
+         "Familia": "Emberizidae",
+         "Peso": "19 gramas á 25 gramas ", 
+         "Tamanho": "15 cm",  
+         "Caracteristicas":"Ave comum em paisagens abertas, borda de florestas, plantações e jardins. Vive aos casais. O colar vermelho-ferrugíneo no pescoço e a cabeça cinza com faixas negras é característico desta espécie.  ",
+         "Alimentacao":"Alimenta-se de sementes, brotos, frutas e insetos. Costuma frequentar comedouros com sementes e quirera de milho. ",
+         "Ninhos":" O ninho é uma tigela aberta e rasa, feito de capim seco e raízes, depositado sobre o solo, touceiras de capins ou em arbustos.A fêmea põe de dois a cinco ovos. Os ninhos de tico-tico são comumente parasitados pelo chopim (Molothrus banariensis).",
+         "imagem":"assets/img/Tico-tico.jpg",
+         "canto":"assets/audio/Tico-tico.mp3"
+    
+    
+        },
+    
+        {
+            
+         "Nome_Comum":"Tucano-de-bico-verde",
+         "Nome_Cientifico": "Ramphastos dicolorus",
+         "Familia": "Ramphastidae",
+         "Peso": "400 gramas", 
+         "Tamanho": "48 cm",  
+         "Caracteristicas":"Seu nome científico significa 'ave colorida com nariz grande como uma espada'.É relativamente comum em áreas florestadas, mas sua ocorrência tem diminuído em função da perda do seu hábitat natural.",
+         "Alimentacao":"Alimenta-se de diversos frutos, artrópodes e pequenos vertebrados, sendo que com frequência preda filhotes e ovos em ninhos de outras aves.",
+         "Ninhos":" Nidifica em ocos de árvores e a postura é de dois a quatro ovos brancos.",
+         "imagem":"assets/img/tucano-de-bico-verde.jpg",
+         "canto":"assets/audio/Tucano-de-bico-verde.mp3"
+        },
+    
+        {
+            
+         "Nome_Comum":"Urubu-de-cabeça-vermelha",
+         "Nome_Cientifico": "Cathartes aura",
+         "Familia": "Cathartidae",
+         "Peso": "2,0 kg", 
+         "Tamanho": "73 cm",  
+         "Caracteristicas":"Habita florestas e áreas campestres. Plumagem preta, com a face interna das penas das asas cinzenta-clara, visível no voo. A cabeça é avermelhada e com a nuca branca, desprovida de penas devido ao hábito alimentar. Não apresenta dimorfismo sexual e é uma ave 'muda', pois não vocaliza.É frequentemente visto planando aproveitando-se das correntes ascendentes de ar.",
+         "Alimentacao":"Alimenta-se de carne em decomposição, utilizando a visão e o olfato para localizar as carcaças.",
+         "Ninhos":"Nidifica no solo ou em ocos de árvores. Postura de dois ovos e a incubação dura de 38 a 41 dias.",
+         "imagem":"assets/img/Urubu-de-cabeça-vermelha.jpg",
+         "canto":"assets/audio/Urubu-de-cabeça-vermelha.mp3"
+    
+    
+        }
+    ]
+    }
+    
+    

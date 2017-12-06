@@ -1,0 +1,55 @@
+<ion-header>
+  <ion-navbar color="primary">
+      <ion-title>{{data.Nome_Comum}}</ion-title>
+    </ion-navbar>
+  </ion-header>
+  <ion-content>
+  <ion-list>
+      <ion-item>
+          <ion-label>Nome Cientifico</ion-label>
+          <ion-badge item-right style="font-style:italic">{{data.Nome_Cientifico}}</ion-badge>
+        </ion-item>
+ 
+      <ion-item>
+          <ion-label>Família</ion-label>
+          <ion-badge item-right>{{data.Familia}}</ion-badge>
+      </ion-item>
+     <ion-item>
+          <ion-label>Peso</ion-label>
+          <ion-badge item-right>{{data.Peso}}</ion-badge>
+     </ion-item>
+    <ion-item>
+        <ion-label>Tamanho</ion-label>
+        <ion-badge item-right>{{data.Tamanho}}</ion-badge>
+   </ion-item>
+  
+   <ion-card>
+        <ion-title>Características</ion-title>
+        <ion-card-content>
+           {{data.Caracteristicas}}
+        </ion-card-content>
+      </ion-card>
+ 
+      <ion-card>
+          <ion-title>Alimentação</ion-title>
+          <ion-card-content>
+             {{data.Alimentacao}}
+          </ion-card-content>
+      </ion-card>
+ 
+      <ion-card>
+          <ion-title>Ninhos</ion-title>
+          <ion-card-content>
+             {{data.Ninhos}}
+          </ion-card-content>
+      </ion-card>
+    
+      <ion-card>
+      <ion-title>Canto Ave</ion-title>
+      <audio controls>  
+        <source src= "{{data.canto}}" type="audio/mpeg"> 
+    </audio>
+ </ion-card>
+ </ion-list>
+ </ion-content>
+ 

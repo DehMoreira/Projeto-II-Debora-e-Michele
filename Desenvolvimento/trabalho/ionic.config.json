@@ -1,0 +1,8 @@
+{
+  "name": "trabalho",
+  "app_id": "58e47346",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

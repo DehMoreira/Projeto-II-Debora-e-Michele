@@ -1,0 +1,17 @@
+<ion-header>
+        <ion-navbar color="primary">
+          <ion-title>Imagem Aves</ion-title>
+      </ion-navbar>
+      </ion-header>
+      <ion-content>
+<ion-list>
+   <ion-item *ngFor="let feed of feeds">
+        <ion-card>
+                <img [src]="feed.gsx$urlimagem.$t">
+               
+                </ion-card>
+   </ion-item>
+</ion-list>
+</ion-content>
+
+
